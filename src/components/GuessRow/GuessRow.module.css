@@ -1,0 +1,11 @@
+.GuessRow {
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: cneter;
+}
+
+
+.rowNum {
+    font-size: 20px;
+    font-weight: bold;
+}
